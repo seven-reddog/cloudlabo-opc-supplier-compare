@@ -1,0 +1,18 @@
+{
+  "name": "supplier-compare",
+  "version": "1.0.2",
+  "description": "按计划采购量比较起订条件、整单支出和单件成本。",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test tests/core.test.cjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "offline",
+    "browser",
+    "local-first",
+    "tool"
+  ]
+}

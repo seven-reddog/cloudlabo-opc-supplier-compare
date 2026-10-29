@@ -1,0 +1,22 @@
+{
+  "_files": {},
+  "quantity": 100,
+  "items": [
+    {
+      "supplier": "示例供应商甲",
+      "price": 22,
+      "moq": 100,
+      "shipping": 80,
+      "days": 7,
+      "payment": "30%预付"
+    },
+    {
+      "supplier": "示例供应商乙",
+      "price": 20,
+      "moq": 200,
+      "shipping": 100,
+      "days": 10,
+      "payment": "全款"
+    }
+  ]
+}
